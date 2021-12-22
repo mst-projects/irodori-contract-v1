@@ -1,0 +1,1 @@
+Irodori NFT contract-v1 which is fully-on chain nft utilising svg image data format.
